@@ -29,7 +29,7 @@ So, if you're looking for someone who's just going to write code, I might not be
 
 
 ## 📚 Projects
-- [Rumouz | Educational Platform](https://romuz.cali- ts.com/): Presenting Rumouz—an educational platform I've been working on. It's designed to make learning accessible and engaging, but It's not your average online learning platform. Rumouz offers a variety of courses, from programming to photography.
+- [Rumouz | Educational Platform](https://romuz.cali-ts.com/): Presenting Rumouz—an educational platform I've been working on. It's designed to make learning accessible and engaging, but It's not your average online learning platform. Rumouz offers a variety of courses, from programming to photography.
 - [My Portfolio](https://protfolioweb.vercel.app/): This is where you can find more about my work, including my journey, achievements, and projects. It's not just a showcase of skills; it's a testament to my dedication and passion for crafting meaningful digital experiences.
 
 
