@@ -7,7 +7,7 @@ I'm a Full Stack Developer, but that title barely scratches the surface. My care
 So, if you're looking for someone who's just going to write code, I might not be your guy. But if you're looking for someone who sees the unseen, connects the dots, and is perpetually ready for the next tech curveball, let's talk. After all, in this digital age, the only constant is change, and I'm here for it.
 
 ## 🔧 Skills & Technologies
-- 💻 Back-End Web Development:
+- 💻 Front-End Web Development:
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
